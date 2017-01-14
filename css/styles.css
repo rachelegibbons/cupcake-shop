@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  background: yellow;
+}
